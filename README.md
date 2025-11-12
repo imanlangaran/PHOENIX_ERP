@@ -1,7 +1,14 @@
-this project contain Three main parts:
-1. Wallet: each customer has a wallet that can deposit and withdraw
-2. Accounting: The store should record each transaction including incomes and payments 
-3. Inventory: The store has products to sale 
+# Overview
 
-# Note
-i moved this part to another [repo](https://github.com/imanlangaran/PHOENIX_ERP)
+This project consists of three main modules:
+
+1. **Wallet** – Each customer has a personal wallet that supports deposits and withdrawals.  
+2. **Accounting** – The system records all financial transactions, including income and payments.  
+3. **Inventory** – The store manages a list of products available for sale.
+
+---
+
+## Project Phases
+
+1. **Authentication & Authorization**  
+   The first phase focuses on implementing a secure authentication and authorization system.
