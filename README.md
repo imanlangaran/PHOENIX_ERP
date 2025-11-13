@@ -12,3 +12,6 @@ This project consists of three main modules:
 
 1. **Authentication & Authorization**  
    The first phase focuses on implementing a secure authentication and authorization system.
+
+
+<!-- https://chatgpt.com/c/69158ce1-01a4-8326-80d3-cd02efe67598 -->
